@@ -1,9 +1,9 @@
 accelerator:
-  displayName: hulk-accelerator
-  description: The smashing accelerator ever
-  iconUrl: https://seeklogo.com/images/H/hulk-logo-35A8442B60-seeklogo.com.png
+  displayName: unicorn-accelerator
+  description: The most unicorn accelerator ever
+  iconUrl: https://seeklogo.com/images/M/magical-unicorn-logo-1AFC539E3B-seeklogo.com.png
   tags: 
-  - hulk
+  - unicorn
   options:
   - name: optionName
     label: Nice Label
