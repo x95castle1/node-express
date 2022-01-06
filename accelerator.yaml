@@ -1,0 +1,13 @@
+accelerator:
+  displayName: unicorn-accelerator
+  description: The best accelerator ever
+  iconUrl: https://i.pinimg.com/564x/e5/46/bc/e546bcc0b0c20597af11a3d55f8a7371.jpg
+  tags: []
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
