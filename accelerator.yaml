@@ -2,7 +2,8 @@ accelerator:
   displayName: unicorn-accelerator
   description: The best accelerator ever
   iconUrl: https://github.com/sample-accelerators/icons/raw/master/icon-boot.png
-  tags: [unicorn]
+  tags: 
+  - unicorn
   options:
   - name: optionName
     label: Nice Label
